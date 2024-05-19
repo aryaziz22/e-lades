@@ -10,5 +10,6 @@
     @if(isset($name))
         <p>Hello, {{ $name }}!</p>
     @endif
+    <p>Selamat datang di halaman saya, semoga membantu!</p>
 </body>
 </html>
